@@ -1,4 +1,4 @@
-#Hello, My name is Chohee!
+#Hello, My name is Chohee Kim
 # GitHub Basics
 
 ## Overview
